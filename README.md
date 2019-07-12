@@ -2,6 +2,8 @@
 
 CLEANURI VUE is a Simple implementation VueJS to Shorten the URL using cleanuri API
 
+![`Screenshot`](https://i.ibb.co/kmWKz9v/screenshot.png)
+
 ## Installation
 
 1. Go to your web root folder ( htdocs/html/www/ )
